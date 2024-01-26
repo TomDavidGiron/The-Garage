@@ -27,4 +27,4 @@ The Garage is my first project using React and JavaScript outside of academic se
 
 ## Contact
 
-For any inquiries or feedback, feel free to reach out to me at tomdavidgiron@gmail.com. You can also connect with me on [LinkedIn]([[your-linkedin-profile](https://www.linkedin.com/in/tom-giron-733921198/)https://www.linkedin.com/in/tom-giron-733921198/])
+For any inquiries or feedback, feel free to reach out to me at tomdavidgiron@gmail.com. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/tom-giron-733921198/)
